@@ -1,0 +1,4 @@
+3
+
+Install Package control
+	tools -> Install Package Control
